@@ -1,0 +1,2 @@
+com.google.firebase.app/**/*.bundle filter=lfs diff=lfs merge=lfs -text
+com.google.firebase.app/**/*.so filter=lfs diff=lfs merge=lfs -text
